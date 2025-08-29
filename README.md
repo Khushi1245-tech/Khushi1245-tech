@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Mishra</h1>
-<h3 align="center">"Aspiring and Enthusiast Data Analyst | Proficient in Python, SQL, Excel, R, Power BI & Tableau | Dedicated to Turning Complex Data into Actionable Insights"</h3>
+<h3 align="center">" Enthusiast Data Analyst | Proficient in Python, SQL, Excel, R, Power BI & Tableau | Dedicated to Turning Complex Data into Actionable Insights"</h3>
 
 
 
