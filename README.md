@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **"I trust data more than my morning alarm ⏰😂🤣📊"**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=khushi-mishra-16864337b</h3>
 <p align="left">
 </p>
 
